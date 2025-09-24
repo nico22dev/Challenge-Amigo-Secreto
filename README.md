@@ -21,10 +21,10 @@ Este proyecto fue desarrollado como parte de un desafío de **lógica de program
 ## 🖼️ Vista previa
 
 ### Pantalla principal
-![Pantalla principal](challenge-amigo-secreto-NicolasTello/assets/imagen1.png)
+![Pantalla principal](assets/imagen1.png)
 
 ### Resultado del sorteo
-![Resultado del sorteo](challenge-amigo-secreto-NicolasTello/assets/imagen2.png)
+![Resultado del sorteo](assets/imagen2.png)
 
 ---
 
